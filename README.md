@@ -7,4 +7,4 @@ Tech used: HTML, EJS, CSS, JavaScript, Node.js, Express.js
 
 Credit:
 
-Hpuse Gardner
+House Gardner
